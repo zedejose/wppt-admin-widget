@@ -38,6 +38,7 @@ I don't want to anger Nacin.
 Proper English, do you speak it?
 
 ## Changelog
-
+### 1.0.1
+Now improved with code that actually works
 ### 1.0
 * Initial version
